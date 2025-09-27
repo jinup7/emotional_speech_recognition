@@ -8,12 +8,13 @@ It extracts **MFCC (Mel Frequency Cepstral Coefficients)** features from audio f
 
 ## 📂 Project Structure
 speech-emotion-recognition/
-│── SER_notebook.ipynb # Colab notebook
+│── SER_notebook.ipynb        # Colab notebook
 │── src/
-│   └── emotion_model.py # Feature extraction & prediction
-│── saved_model/ # Trained model (optional)
-│── requirements.txt # Dependencies
-│── README.md # Project description
+│   └── emotion_model.py       # Feature extraction & prediction
+│── saved_model/               # Trained model (optional)
+│── requirements.txt           # Dependencies
+│── README.md                  # Project description
+
 
 ---
 
